@@ -10,11 +10,10 @@
 --
 - [X] Add your name to the list of names below.
 --
-- [ ] Run git add ., git commit -m "added my name to the list", and git push to send your code to Github
+- [X] Run git add ., git commit -m "added my name to the list", and git push to send your code to Github
 --
-- [ ] Create a Pull Request
+- [X] Create a Pull Request
 --
-
 
 ## ADD your name to this list
 
