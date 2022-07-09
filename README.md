@@ -20,3 +20,4 @@
 
 - Giovanni Lituma
 - Camila Torres
+Nataly Briceno Guerrero
